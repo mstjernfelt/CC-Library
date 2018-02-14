@@ -1,5 +1,5 @@
 ﻿#Part of CC.Powershell.Azure.Utilities
-function CC-Azure-Update-EncryptionKey
+function CCAzureUpdateEncryptionKey
 {
     [CmdletBinding()]
     param
