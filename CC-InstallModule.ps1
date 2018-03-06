@@ -3,5 +3,5 @@
     $env:PSModulePath = $env:PSModulePath + ';' + $PSScriptRoot
 }
 
-Write-host "Loading Cosmo.Powershell.NAV..." -ForegroundColor Green
+Write-host "Loading CC.Powershell.NAV..." -ForegroundColor Green
 Import-module CC.Powershell.NAV.Utilities -Force 

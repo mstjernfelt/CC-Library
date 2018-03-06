@@ -63,7 +63,7 @@ $psISE.CurrentPowerShellTab.AddOnsMenu.Submenus.Add(''Load NAV 2016 NavAdminTool
 
 $code =
 {
-  Import-module (Join-Path ''' + $PSScriptRoot + ''' ''LoadModules.ps1'')  
+  Import-module (Join-Path ''' + $PSScriptRoot + ''' ''CC-LoadModules.ps1'')  
 }
 $psISE.CurrentPowerShellTab.AddOnsMenu.Submenus.Add(''Load CC-Library CmdLets'',$code,$null)
 
