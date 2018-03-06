@@ -1,5 +1,5 @@
 ﻿#Part of Cosmo.Powershell.NAV.Service
-function CC-Load-NAV-Modules
+function Load-NAV-Modules
 {
     [CmdletBinding()]
     param

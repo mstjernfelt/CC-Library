@@ -1,5 +1,5 @@
 ﻿#Part of Cosmo.Powershell.NAV.Utilities
-function CC-New-NAVServerInstance
+function New-NAVServerInstance
 {
     [CmdletBinding()]
     param

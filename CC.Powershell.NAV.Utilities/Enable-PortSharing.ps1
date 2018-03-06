@@ -1,5 +1,5 @@
 ﻿#Part of Cosmo.Powershell.NAV.Service
-function CC-Serivce-Enable-PortSharing
+function Enable-PortSharing
 {
     [CmdletBinding()]
     param

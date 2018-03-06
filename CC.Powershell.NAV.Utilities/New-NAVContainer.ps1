@@ -1,4 +1,4 @@
-﻿function CC-New-NAVContainer {
+﻿function New-NAVContainer {
     [CmdletBinding()]
     Param(
         [string] [Parameter(Mandatory=$true)] $ContainerName,

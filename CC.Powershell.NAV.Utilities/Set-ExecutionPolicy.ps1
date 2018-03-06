@@ -1,5 +1,5 @@
 ﻿#Part of Cosmo.Powershell.NAV.Service
-function CC-Set-ExecutionPolicy
+function Set-ExecutionPolicy
 {
     [CmdletBinding()]
     param

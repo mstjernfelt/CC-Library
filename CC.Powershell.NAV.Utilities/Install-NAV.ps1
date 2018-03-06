@@ -1,4 +1,4 @@
-﻿function CC-Install-NAV
+﻿function Install-NAV
 {
     [CmdletBinding()]
     Param

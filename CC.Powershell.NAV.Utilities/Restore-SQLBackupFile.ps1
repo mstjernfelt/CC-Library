@@ -1,4 +1,4 @@
-﻿function CC-SQL-Restore-SQLBackupFile
+﻿function Restore-SQLBackupFile
 {
 
     [CmdletBinding()]

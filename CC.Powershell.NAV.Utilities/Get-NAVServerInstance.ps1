@@ -1,5 +1,5 @@
 ﻿#Part of CC.Powershell.NAV.Utilities
-function CC-Service-Get-NAVServerConfiguration
+function Get-NAVServerInstance
 {
    [CmdletBinding()]
     param (

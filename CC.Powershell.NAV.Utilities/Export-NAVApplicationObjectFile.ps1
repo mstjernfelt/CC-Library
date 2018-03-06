@@ -1,5 +1,5 @@
 ﻿#Cosmo.Powershell.NAV.Utilities
-function CC-Export-NAVApplicationObjectFile
+function Export-NAVApplicationObjectFile
 {
     [CmdletBinding()]
     param (

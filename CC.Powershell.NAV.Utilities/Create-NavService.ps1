@@ -1,5 +1,5 @@
 ﻿#Part of Cosmo.Powershell.NAV.Service
-function CC-Service-CreateNavService
+function Create-NavService
 {
     [CmdletBinding()]
     param

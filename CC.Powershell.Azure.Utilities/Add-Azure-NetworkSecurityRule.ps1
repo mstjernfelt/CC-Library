@@ -1,5 +1,5 @@
 ﻿#Part of CC.Powershell.Azure.Utilities
-function CC-Azure-Add-NetworkSecurityRule
+function Add-Azure-NetworkSecurityRule
 {
     [CmdletBinding()]
     param

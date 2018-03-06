@@ -1,4 +1,4 @@
-﻿function CC-Convert-To-AL
+﻿function Convert-To-AL-CC
 {
     [CmdletBinding()]
     Param(

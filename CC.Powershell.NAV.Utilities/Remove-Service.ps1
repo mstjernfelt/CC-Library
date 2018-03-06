@@ -1,5 +1,5 @@
 ﻿#Part of Cosmo.Powershell.NAV.Service
-function CC-Service-DeleteService
+function Remove-Service
 {
     [CmdletBinding()]
     param
